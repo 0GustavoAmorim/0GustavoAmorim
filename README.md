@@ -1,6 +1,7 @@
 ### Salve!!! Eu sou o Gustavo Amorim 👋
  
 - 👨‍💻 Atualmente cursando Técnico em Desenvolvimento de Sistemas na ETEC.
+- Java Web Instituto PROA.
 
 <div align="center">
   <a href="https://github.com/0GustavoAmorim">
