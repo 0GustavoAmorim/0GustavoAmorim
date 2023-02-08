@@ -1,9 +1,9 @@
 ### Salve!!! Eu sou o Gustavo Amorim 👋
 
 
-- 💻 Estagiário Analista Desenvolvedor
+- 💻 Estagiário Analista Desenvolvedor FullStack na Websupply
 
-- 💻 ADS Faculdade Impacta
+- 💻 Analise e Desenvolvimento de Sistemas | Faculdade Impacta
 - 👨‍💻 Técnico em Desenvolvimento de Sistemas na ETEC.
 - 👨‍💻 Java Web Instituto PROA.
 
