@@ -1,11 +1,10 @@
 ### Salve!!! Eu sou o Gustavo Amorim 👋
 
 
-- 💻 Estagiário Analista Desenvolvedor FullStack na Websupply
-
+- 💻 Estagiário de Engenharia de Software na Recovery 
 - 💻 Analise e Desenvolvimento de Sistemas | Faculdade Impacta
 - 👨‍💻 Técnico em Desenvolvimento de Sistemas na ETEC.
-- 👨‍💻 Java Web Instituto PROA.
+- 👨‍💻 Instituto PROA.
 
 <div align="center">
   <a href="https://github.com/0GustavoAmorim">
