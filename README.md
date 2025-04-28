@@ -1,8 +1,7 @@
-### Salve!!! Eu sou o Gustavo Amorim 👋
+###  Opa, bem vindo ao meu perfil 👋
 
-
-- 💻 Estagiário de Engenharia de Software na Recovery 
-- 💻 Analise e Desenvolvimento de Sistemas | Faculdade Impacta
+- 💻 Desenvolvedor Back-end júnior no BTG Pactual 
+- 💻 Formando em Analise e Desenvolvimento de Sistemas | Faculdade Impacta & Ciência de dados | UNIVESP
 - 👨‍💻 Técnico em Desenvolvimento de Sistemas na ETEC.
 - 👨‍💻 Instituto PROA.
 
@@ -23,5 +22,3 @@
   <img align="center" alt="Gu-MySQL"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Gu-AndroidStudio"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
 </div>
-  
-   ![Snake animation](https://github.com/0GustavoAmorim/0GustavoAmorim/blob/output/github-contribution-grid-snake.svg)
