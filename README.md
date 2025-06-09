@@ -1,6 +1,6 @@
 ###  Opa, bem vindo ao meu perfil 👋
 
-- 💻 Desenvolvedor Back-end júnior no BTG Pactual 
+- 💻 Desenvolvedor Back-end júnior FCamara - BTG Pactual
 - 💻 Formando em Analise e Desenvolvimento de Sistemas | Faculdade Impacta & Ciência de dados | UNIVESP
 - 👨‍💻 Técnico em Desenvolvimento de Sistemas na ETEC.
 - 👨‍💻 Instituto PROA.
