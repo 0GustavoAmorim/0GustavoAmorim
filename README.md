@@ -45,7 +45,7 @@
 
 <div align="center">
   <h4> ➝ conecte-se comigo: </h4>
-  <a href="https://www.linkedin.com/in/gustavoamorim" target="_blank">
+  <a href="https://www.linkedin.com/in/gustavo-amorim-silva/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/0GustavoAmorim" target="_blank">
