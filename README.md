@@ -34,15 +34,6 @@
 
 <br>
 
-<h4> ➝ estatísticas: </h4>
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=0GustavoAmorim&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo GitHub stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0GustavoAmorim&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-<br>
-
 <div align="center">
   <h4> ➝ conecte-se comigo: </h4>
   <a href="https://www.linkedin.com/in/gustavo-amorim-silva/" target="_blank">
