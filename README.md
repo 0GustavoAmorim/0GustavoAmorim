@@ -4,8 +4,6 @@
 <br>
 
 <img align="right" width="300px" src="https://i.pinimg.com/originals/3c/c3/a2/3cc3a2b332e77d64f8a7e388c7aaa2e0.gif"/>
-
-
 <div align="left">
   <h4> ➝ sobre mim: </h4>
   <ul>
@@ -15,8 +13,6 @@
     <li> 👨‍💻 Técnico em desenvolvimento de sistemas - ETEC Franco da Rocha </li>
   </ul>
 </div>
-
-<br>
 
 <h4> ➝ stack principal: </h4>
 
