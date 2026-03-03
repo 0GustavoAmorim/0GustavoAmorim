@@ -13,9 +13,7 @@
     <li> 👨‍💻 Técnico em desenvolvimento de sistemas - ETEC Franco da Rocha </li>
   </ul>
 </div>
-
 <h4> ➝ stack principal: </h4>
-
 <div align="center">
   <img alt="dotnet" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" />
   <img alt="C#" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
