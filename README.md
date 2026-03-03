@@ -9,7 +9,7 @@
 <div align="left">
   <h4> ➝ sobre mim: </h4>
   <ul>
-    <li> 💻 Analyst I Software Engineer - DXC Technology </li>
+    <li> 💻 Back-end developer - GFT Technologies </li>
     <li> 🎓 Análise e desenvolvimento de sistemas - Faculdade Impacta </li>
     <li> 🎓 Ciência de dados - UNIVESP </li>
     <li> 👨‍💻 Técnico em desenvolvimento de sistemas - ETEC Franco da Rocha </li>
